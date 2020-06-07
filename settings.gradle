@@ -1,0 +1,2 @@
+rootProject.name='Giff It Up'
+include ':app'
